@@ -1,4 +1,4 @@
-# 🚀 JettOX Pro
+# 🚀 JettOX
 
 **Deep System Diagnostics Tool for Windows**
 
@@ -201,6 +201,7 @@ MIT License – Free to use, modify, and share.
   * `smartctl` for detailed disk health.
   * `psutil` for enhanced CPU/memory/disk info.
   * `pyfiglet` for a fancier terminal banner.
+
 
 
 
